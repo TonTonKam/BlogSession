@@ -1,0 +1,14 @@
+body{
+	font-size: 16px;
+}
+.objet-article{
+	border: 2px solid;
+	margin: 0.5em;
+	padding: 3px;
+}
+.objet-article a{
+	text-decoration: none;
+}
+.format{
+	display: inline;
+}
