@@ -1,5 +1,7 @@
 body{
 	font-size: 16px;
+	display: flex;
+	flex-direction: column;
 }
 .objet-article{
 	border: 2px solid;
@@ -11,4 +13,17 @@ body{
 }
 .format{
 	display: inline;
+}
+.objet-article{
+	display: flex;
+	/* flex: 6; */
+	width: 45%;
+}
+.contenaire-objet{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.objet-image img{
+	width: 100%;
 }
