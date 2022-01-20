@@ -1,0 +1,75 @@
+Vniapp Showcase Template
+
+<p> Vniapp is a fully responsive one page Responsive App Template built using the latest bootstrap framework.
+ It’s designed for describing your app, agency or business. The clean and well 
+commented code allows you to easily customizing it.<p>
+
+
+<h3>12+ Superb Demos Vniapp Onepage Template</h3>
+
+<h3>Features</h3>
+<ul>
+<li>Creative and Superb </li>
+<li>One page Demos</li>
+<li>Multipage Demos</li>
+<li>Responsive layout</li>
+<li>HTML5 & CSS3</li>
+<li>Bootstrap</li>
+<li>Retina ready</li>
+<li>Revolution Slider</li>
+<li>Cube portfolio Save </li>
+<li>Fast performance</li>
+<li>HTML5 videos</li>
+<li>Parallax images</li>
+<li>Rain Effect</li>
+<li>Particle Effect</li>
+<li>Full screen sliders</li>
+<li>On scroll animations</li>
+<li>YouTube Video Light box</li>
+<li>Pricing tables</li>
+<li>Grid system</li>
+<li>Working PHP contact forms</li>
+<li>Font awesome icons</li>
+<li>Smooth animations</li>
+<li>Form validations</li>
+<li>Countdown </li>
+<li>Easy to use and customized code</li>
+<li>Reusable code</li>
+<li>Developer friendly and well commented code</li>
+<li>Google fonts</li>
+<li>Cross browser compatible</li>
+<li>Well documented</li>
+<li>Free updates</li>
+<li>Responsive and quick support</li>
+</ul>
+
+
+<h3>Templates Other Pages</h3>
+<ul>
+<li>Portfolio Column 1 </li>
+<li>Portfolio Column 2 </li>
+<li>Portfolio Column 3 </li>
+<li>Portfolio Column 4</li>
+<li>Blog page-1 </li>
+<li>Blog page 2 </li>
+<li>Blog page 3 </li>
+<li>Blog page 4 </li>
+<li>Coming soon Page </li>
+
+</ul>
+
+<ul>
+<li>Images: http://picjumbo.com/ </li>
+<li>Images: https://www.pexels.com/ </li>
+<li>Images: https://freepik.com/ </li>
+<li>Mockups Images: http://www.fusionplate.com </li>
+<li>Google Fonts - http://www.google.com/webfonts </li>
+<li>Icons Font-face - http://fontawesome.io/, </li>
+<li>Icons - https://www.iconfinder.com,</li>
+<ul>
+
+
+<h3>Note</h3>
+Images used in demo are for display purpose only, they are not included in the package.
+
+

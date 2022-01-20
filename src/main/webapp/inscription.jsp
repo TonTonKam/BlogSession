@@ -12,6 +12,14 @@
 	    <input type="text" class="form-control" name="nomSaisie">
 	  </div>
 	  <div class="mb-3">
+	    <label for="ageSaisie" class="form-label"><c:out value="Age" /></label>
+	    <input type="text" class="form-control" name="ageSaisie">
+	  </div>
+	  <div class="mb-3">
+	    <label for="civSaisie" class="form-label"><c:out value="Civilite" /></label>
+	    <input type="text" class="form-control" name="civSaisie">
+	  </div>
+	  <div class="mb-3">
 	    <label for="nomSaisie" class="form-label"><c:out value="Email" /></label>
 	    <input type="email" class="form-control" name="emailSaisie">
 	  </div>

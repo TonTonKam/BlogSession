@@ -2,7 +2,13 @@ body{
 	font-size: 16px;
 	display: flex;
 	flex-direction: column;
+	background-image: url("https://careerbright.com/wp-content/uploads/2020/03/Digital-communication-1024x621.jpg");
 }
+/*** Header ***/
+.menuGeneral{
+	background-color: graytext;
+}
+
 .objet-article{
 	border: 2px solid;
 	margin: 0.5em;
